@@ -1,6 +1,7 @@
 streamlit
 requests
 pillow
-opencv-python
+numpy
+opencv-python-headless
 streamlit-webrtc
 av
